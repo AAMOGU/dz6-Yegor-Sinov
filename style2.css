@@ -1,0 +1,19 @@
+.card {
+    width: 600px;
+    height: 340px;
+    background-image: url('cb.jpg');
+    background-size: cover;
+    border-radius: 40px;
+    color: whitesmoke;
+    font-family: 'Fascinate', cursive;
+    padding-top: 128px;
+    box-sizing: border-box;
+}
+.cco {
+text-align: center;
+margin: 0;
+}
+.cn {
+text-align: center;
+margin: 0;
+}
